@@ -1,0 +1,53 @@
+round 1 honnba 0 kyoutaku 0
+reach 2 -1000
+ron 2 +2000 1 -2000
+agari_kyoutaku 2 +1000
+round 2 honnba 0 kyoutaku 0
+score_check 1 23000 2 27000 3 25000 4 25000
+ron 3 +8000 2 -8000
+round 3 honnba 0 kyoutaku 0
+score_check 1 23000 2 19000 3 33000 4 25000
+reach 1 -1000
+ron 2 +1000 1 -1000
+agari_kyoutaku 2 +1000
+round 4 honnba 0 kyoutaku 0
+score_check 1 21000 2 21000 3 33000 4 25000
+reach 4 -1000
+tsumo 1 +2000 2 -500 3 -500 4 -1000
+agari_kyoutaku 1 +1000
+round 5 honnba 0 kyoutaku 0
+score_check 1 24000 2 20500 3 32500 4 23000
+ron 1 +1500 4 -1500
+round 5 honnba 1 kyoutaku 0
+score_check 1 25500 2 20500 3 32500 4 21500
+reach 3 -1000
+ron 1 +12300 2 -12300
+agari_kyoutaku 1 +1000
+round 5 honnba 2 kyoutaku 0
+score_check 1 38800 2 8200 3 31500 4 21500
+howannpai_ryuukyoku 1 -3000 2 +1000 3 +1000 4 +1000
+round 6 honnba 3 kyoutaku 0
+score_check 1 35800 2 9200 3 32500 4 22500
+reach 2 -1000
+ron 2 +12900 3 -12900
+agari_kyoutaku 2 +1000
+round 6 honnba 4 kyoutaku 0
+score_check 1 35800 2 22100 3 19600 4 22500
+reach 2 -1000
+ron 2 +7000 3 -7000
+agari_kyoutaku 2 +1000
+round 6 honnba 5 kyoutaku 0
+score_check 1 35800 2 29100 3 12600 4 22500
+tsumo 4 +5500 1 -1500 2 -2500 3 -1500
+round 7 honnba 0 kyoutaku 0
+score_check 1 34300 2 26600 3 11100 4 28000
+ron 4 +12000 1 -12000
+round 8 honnba 0 kyoutaku 0
+score_check 1 22300 2 26600 3 11100 4 40000
+howannpai_ryuukyoku 1 +1000 2 +1000 3 +1000 4 -3000
+round 9 honnba 1 kyoutaku 0
+score_check 1 23300 2 27600 3 12100 4 37000
+player 1 2yrold 23300 3 -167
+player 2 Dawn 27600 2 76
+player 3 Haraki 12100 4 -479
+player 4 zhunzhun 37000 1 570

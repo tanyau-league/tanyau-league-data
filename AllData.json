@@ -71,8 +71,8 @@
 	}, {
 		"type": "ron",
 		"score": {
-			"2": 8000,
-			"4": -8000
+			"2": 7700,
+			"4": -7700
 		}
 	}, {
 		"type": "agari_kyoutaku",
@@ -257,9 +257,9 @@
 		}, {
 			"id": 2,
 			"name": "tooru",
-			"score": 18700,
+			"score": 18400,
 			"rank": 3,
-			"point": -213
+			"point": -216
 		}, {
 			"id": 3,
 			"name": "zhunzhun",
@@ -269,9 +269,9 @@
 		}, {
 			"id": 4,
 			"name": "多元外卷人",
-			"score": 17600,
+			"score": 17900,
 			"rank": 4,
-			"point": -424
+			"point": -421
 		}]
 	}]
 }
